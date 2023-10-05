@@ -36,10 +36,11 @@ THEN the saved events persist
 The following animation demonstrates the application functionality:
 
 ![gif of my assignment](./assets/workdayscheduler.gif)
+
 ![gif demo provided](./assets/demo.gif)
 
 ## Project Link to GitHub
 
-[Github - Day JS Scheduler:](https://github.com/charmingdarling/dayjsplanner)
+[Github - Day JS Scheduler](https://github.com/charmingdarling/dayjsplanner)
 
-[Github - Deployed Site:](https://charmingdarling.github.io/dayjsplanner/)
+[Github - Deployed Site](https://charmingdarling.github.io/dayjsplanner/)
