@@ -45,6 +45,12 @@ $(function () {
   }
   getFromLocalStorage();
 
+  $(".saveBtn").on("click", function () {
+    let storageValue = $(this).siblings(".description").val();
+    let time = $(this).parent().attr("id");
+    localStorage.setItem(time, storageValue);
+  });
+
   // TODO: Save button is similar to get FromLocalStorage() - when user clicks on that button, then you find the button, and then find the sibling - when they click on that button, you should be able to tell WHICH time block was clicked ---  then find the textarea ---- then find the value of what is inserted ---- then get user input and store in local storage
 
   // TODO: Add code to display the current date in the header of the page.
