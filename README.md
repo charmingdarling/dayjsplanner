@@ -31,8 +31,15 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 ```
+## Gif Links
 
 The following animation demonstrates the application functionality:
 
 ![gif of my assignment](./assets/workdayscheduler.gif)
 ![gif demo provided](./assets/demo.gif)
+
+## Project Link to GitHub
+
+[Github - Day JS Scheduler:](https://github.com/charmingdarling/dayjsplanner)
+
+[Github - Deployed Site:](https://charmingdarling.github.io/dayjsplanner/)
